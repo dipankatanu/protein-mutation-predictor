@@ -104,7 +104,7 @@ Using our Dual-Engine framework:
 | Engine | Prediction | Why it Matters |
 |--------|-------------|-----------------|
 | **Physical Engine** | **Low Steric Penalty** → tolerated | Valine is *smaller* than Glutamate → no steric clash |
-| **Heuristic Engine** | **High-Risk Polarity Switch** 🚨 | Replacing a *charged, hydrophilic Glu* with a *hydrophobic Val* creates an **oily patch** |
+| **Heuristic Engine** | **High-Risk Polarity Switch**  | Replacing a *charged, hydrophilic Glu* with a *hydrophobic Val* creates an **oily patch** |
 
 ### Interpretation
 
