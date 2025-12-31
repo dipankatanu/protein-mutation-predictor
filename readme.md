@@ -132,6 +132,13 @@ Our tool **catches them.**
 
 **Conclusion:**  
 > The predictor reproduces the known pathological behavior of the **Sickle Cell mutation**, supporting its validity as a **mutation triage tool** before running full MD / Rosetta / FoldX pipelines.
+---
+> ## Citation & References
 
+If you use this tool in your research, please cite this repository and the following foundational works:
+
+1.  **Volume Scale:** Zamyatin, A. A. (1972). *Protein volume in solution.* Progress in Biophysics and Molecular Biology.
+2.  **Hydropathy Scale:** Kyte, J., & Doolittle, R. F. (1982). *A simple method for displaying the hydropathic character of a protein.* Journal of Molecular Biology.
+3.  **Lennard-Jones Potential:** Jones, J. E. (1924). *On the Determination of Molecular Fields.* Proceedings of the Royal Society.
 ---
 
