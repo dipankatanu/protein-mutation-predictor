@@ -1,7 +1,5 @@
 # Protein Mutation Predictor
 
-# Protein Mutation Predictor: A Dual-Engine Analysis Tool
-
 A computational structural biology pipeline designed to evaluate the impact of **single-point mutations** on protein stability.
 
 This tool bridges the gap between sequence-based prediction and high-compute molecular dynamics using a **Dual-Engine approach**:
