@@ -1,0 +1,4 @@
+__pycache__/
+data/*.pdb
+data/*.ent
+.ipynb_checkpoints/
